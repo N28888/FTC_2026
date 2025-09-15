@@ -1,3 +1,43 @@
+Custom License Based on GNU General Public License v3.0  
+Version 1.0 — 2025  
+
+Copyright © 2025 [Your Name or Organization]
+
+---
+
+### Preamble
+
+This software incorporates terms of the **GNU General Public License v3.0 (GPLv3)** with modifications to strengthen copyright protections under Canadian law.  
+In the event of any conflict between the GPLv3 terms and the additional clauses listed below, **the additional clauses shall prevail**.  
+
+---
+
+### Additional Clauses (Override)
+
+**Clause 1 — Prohibition of Unauthorized Use**  
+No person or organization may use, reproduce, distribute, or modify this software, in whole or in part, without the **prior written permission** of the copyright holder.  
+
+**Clause 2 — Legal Liability**  
+Any unauthorized use will be considered a violation of Canadian copyright law (**Copyright Act of Canada, R.S.C., 1985, c. C-42**) and may result in **civil or criminal liability**. The copyright holder reserves the right to pursue legal action.  
+
+**Clause 3 — Precedence of Clauses**  
+Wherever there is a conflict between these clauses and the GNU GPL v3.0 license, these clauses take precedence and shall govern.  
+
+---
+
+### Incorporation of GPLv3
+
+For all provisions not overridden by the above clauses, the **GNU General Public License v3.0** applies in full.  
+The full text of the GPLv3 is provided below.  
+
+---
+
+## GNU GENERAL PUBLIC LICENSE  
+Version 3, 29 June 2007  
+
+(C) 2007 Free Software Foundation, Inc.  
+<https://fsf.org/>
+
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
@@ -672,3 +712,6 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+
+
+---
